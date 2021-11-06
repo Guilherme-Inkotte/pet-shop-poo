@@ -1,0 +1,3 @@
+module petshop {
+	exports petshop;
+}
